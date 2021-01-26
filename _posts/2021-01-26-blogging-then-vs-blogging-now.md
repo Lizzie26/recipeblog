@@ -2,7 +2,7 @@
 layout: post
 title: Blogging Then vs Blogging Now
 date: 2021-01-26T14:16:45.498Z
-header_feature_image: ../uploads/blogging.jpg
+header_feature_image: ../uploads/photo-1554415707-6e8cfc93fe23.jpg
 title_color: "#ffffff"
 comments: false
 tags:
