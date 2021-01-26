@@ -8,7 +8,7 @@ comments: false
 tags:
   - ""
 ---
-From Justin Hall writing his first-ever blog post back in 1994 to clicking on Reni Eddo-Lodge's blog in 2021 has a lot changed in blogging? Who even blogs? And what is even the point of it all?
+From Justin Hall writing his first-ever blog post back in 1994 to clicking on [Reni Eddo-Lodge's blog](http://renieddolodge.co.uk/blog/) in 2021 has a lot changed in blogging? Who even blogs? And what is even the point of it all?
 
 Firstly there are similarities between Hall's and Eddo-Lodge's blogging techniques, despite the time gap. The posts are short, there are links at disposal, and opinionated thought-provoking content that is considered essential to the blogger is often the bread and butter of a blog. In light of question number three blog posts are known to hold personal feelings, opinions and ideas that are primarily outlets for individuals to express their hobbies and passions—no wonder why it was such a hit and continues to be. Before the invention of the term 'blog' previously, scholars referred to blogs as other titles such as 'online diaries' or even 'personal pages' to encompass a blog's purpose. 
 
