@@ -4,7 +4,7 @@ footer_text: Copyright 2021 Lizzie Vascenko
 header_feature_image: ../uploads/photo-1597822759184-fefd765faedf.jpg
 header_text: Thoughts and Opinions
 header_text_color: "#ffffff"
-bannerheight: 40vmax
+bannerheight: 100vh
 logo: ../uploads/thumbnail-7-.jpg
 favicon: /uploads/favicon.ico
 gridlayout: false
