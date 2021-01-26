@@ -3,9 +3,9 @@ description: A website with a blog
 footer_text: Copyright 2021 Lizzie Vascenko
 header_feature_image: ../uploads/photo-1447722939828-559fee94b1f5.jpg
 header_text: Thoughts and Opinions
-header_text_color: "#ffffff"
+header_text_color: "#f9ff4d"
 bannerheight: 40vmax
-logo: ../uploads/thumbnail-10-.jpg
+logo: ../uploads/logo.jpg
 favicon: /uploads/favicon.ico
 gridlayout: false
 fixednavbar: false
