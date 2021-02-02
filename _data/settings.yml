@@ -6,7 +6,7 @@ header_text: ""
 header_text_color: "#ffffff"
 bannerheight: 40vmax
 logo: ../uploads/thumbnail-11-.jpg
-favicon: /uploads/favicon.ico
+favicon: ../uploads/books.png
 gridlayout: false
 fixednavbar: false
 upzoom: true
