@@ -3,7 +3,7 @@ description: A website with a blog
 footer_text: Copyright 2021 Lizzie Vascenko
 header_feature_image: ../uploads/photo-1519682337058-a94d519337bc-1-.jpg
 header_text: "Thoughts "
-header_text_color: "#ffffff"
+header_text_color: "#000000"
 bannerheight: 40vmax
 logo: ../uploads/thumbnail-11-.jpg
 favicon: ../uploads/books.png
