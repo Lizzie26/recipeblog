@@ -18,7 +18,7 @@ Speaking of flair, many professionals are highly influential in creating trends 
 
 Yet, in my opinion, YouTubers are my preferred method of finding a new recipe. Being a Gen Z, having a digital recipe is imperative as my life is made simple by content that gives quick gratification. Not to mention, free content is highly desirable for a student who is on a budget. YouTube has an array of videos and assures an amateur cook, like me, the mixture is meant to look a bit brown and unappetising. 
 
-<div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=JzJsUW4xV7k?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/JzJsUW4xV7k?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Lastly, websites are also hugely popular for finding recipes from the [BBC Good Food](https://www.bbcgoodfood.com/recipes) website or [Pinch of Nom](https://pinchofnom.com/recipes/). This is usually another go-to method for me, and they are typically packed with useful tips and tricks to help make your life easier. 
 
