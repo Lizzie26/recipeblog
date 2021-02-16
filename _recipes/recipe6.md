@@ -1,9 +1,9 @@
 ---
-layout: recipe #this will be a basic page with styles coming from content.css
-title: Recipe 6
-date: 2019-10-19
-published: true
+title: Moroccan Coconut Macaroons
 order: 1
+date: 2019-10-19
+layout: recipe
+published: true
 tags:
   - Greek
   - Meat
