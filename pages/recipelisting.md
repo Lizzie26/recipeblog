@@ -6,4 +6,4 @@ show: false
 layout: recipeslisting
 published: true
 ---
-[All Recipes can be found here](https://lizziesblog.netlify.app/allrecipes/)
+All recipes can be found here.
