@@ -6,4 +6,4 @@ show: false
 layout: recipeslisting
 published: true
 ---
-All recipes can be found here.
+Six Moroccan Inspired Meals for your Dinner Party.
