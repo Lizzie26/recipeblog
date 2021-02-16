@@ -6,4 +6,4 @@ show: false
 layout: recipeslisting
 published: true
 ---
-[All Recipes can be found here](https://lizziesblog.netlify.app/allrecipes/)
+Six Moroccan Inspired Meals for your Dinner Party.
