@@ -1,16 +1,10 @@
 ---
-title: My Recipes
+title: 6 Moroccan Meals Ebook
 permalink: /recipes/
 date: 2020-11-19T18:50:31.663Z
-show: false
+show: true
 layout: recipeshome
 ---
-This will be the home page for your recipes.
+This ebook features a mix of six traditional and modern Moroccan dishes sectioned into three-course meal ideas with two starters, two mains and two desserts with a vegetarian alternative to suit your guest’s dietary requirements. This book is perfect for readers who want to throw their own Moroccan themed dinner party! All recipes have been adapted from Nargisse, the founder of [My Moroccan Food](http://www.mymoroccanfood.com/) and author of *Casablanca*. Alongside the recipes will be tips and tricks for cooking your perfect dish and where is best to source your ingredients. High-quality photographs will also be featured, showcasing ideas on how you can present your plates and food to your guests around the dinner table.
 
-Ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Add the cover image here.
-
-[![Tomatoes](../uploads/tomatoes.jpg "Tomatoes")](/allrecipes)
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![An array of spices displayed on a Moroccan street market with the title of the book cover.](../uploads/moroccan-meals-ebook-cover.jpg "6 Moroccan Meals Ebook Cover")
