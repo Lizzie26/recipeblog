@@ -1,5 +1,5 @@
 ---
-title: 6 Moroccan Meals Ebook
+title: "6 Moroccan Meal Recipes "
 permalink: /recipes/
 date: 2020-11-19T18:50:31.663Z
 show: true
