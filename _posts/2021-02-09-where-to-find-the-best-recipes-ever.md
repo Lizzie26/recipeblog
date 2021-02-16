@@ -14,7 +14,7 @@ However, many established cooks and bakers have traditional recipes passed down 
 
 Speaking of flair, many professionals are highly influential in creating trends within the cooking scene, Nigella and Ottolenghi, just to name a few. Their cookbooks dominate the charts, but they do not only inspire the amateur that is you or me. They also encourage recipe developers in chain supermarkets such as Sainsbury’s. There is a sense of ease when taking a recipe from a professional chef because it makes you think that the time you put into creating the food will be worth it and is guaranteed to taste nice because the professional said so. For the supermarket recipe developers, they just want to make some money. 
 
-![](../uploads/cookery-book-christmas-2020-feature-1024x620.jpg "10 Must-have cookbooks")
+![Top 10 Cookbooks](../uploads/cookery-book-christmas-2020-feature-1024x620.jpg "10 Must-have cookbooks")
 
 Yet, in my opinion, YouTubers are my preferred method of finding a new recipe. Being a Gen Z, having a digital recipe is imperative as my life is made simple by content that gives quick gratification. Not to mention, free content is highly desirable for a student who is on a budget. YouTube has an array of videos and assures an amateur cook, like me, the mixture is meant to look a bit brown and unappetising. 
 
