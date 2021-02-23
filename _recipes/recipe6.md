@@ -29,8 +29,6 @@ These macaroons have a very balanced citrusy, sweet and aromatic taste, but they
 * 1 teaspoon vanilla extract
 * Melted chocolate, dried berries, lime zest for decoration (optional)
 
-
-
 ## Method
 
 1. Preheat oven to 180 C (350 F).
@@ -45,7 +43,5 @@ These macaroons have a very balanced citrusy, sweet and aromatic taste, but they
 8. Decorate with melted chocolate, dried fruits and citrus zest. 
 
    *Tip: Place the chocolate and a few drops of water in a microwave-safe bowl stopping and stirring at 15- second intervals until smooth and creamy.*
-
-   ![Raw Macaroons moulded into pyramids on a baking tray](../uploads/macaroon-prep.jpeg "Macaroons on baking tray.")
 
 *Preparation time: 45 minutes.*
