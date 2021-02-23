@@ -28,11 +28,9 @@ tags: null
 * 8 sheets filo pastry, 20 x 30 cm (200 gr)
 * 50 gr unsalted butter, melted
 * 300 gr honey
-* Ground nuts and freeze-dried berries for decoration (optional)
+* Groundnuts and freeze-dried berries for decoration (optional)
 
 *Tip: The key to making a successful mhencha is to not break your filo pastry.  To avoid that, make sure to brush the filo sheet thoroughly with melted butter and not over-tighten the pastry the first time your roll it.*
-
-![Filo pastry rolled out with clumped up dough next to it and a bowl of egg yolk.](../uploads/pastry.jpeg "Filo Pastry and Egg Yolk")
 
 ## Method
 
@@ -42,7 +40,5 @@ tags: null
 4. Meanwhile, heat the honey in a small saucepan over medium heat. Avoid burning the honey by controlling the heat, once it’s foamy, you should reduce the heat.
 5. Once the pastries are baked, immediately transfer to the simmering honey and soak for 2 minutes. You will have to do this in batches as all the pastries won’t fit in the pan.
 6. Remove to a flat dish to cool before serving. Decorate with ground nuts and/or freeze-dried berries if desired.
-
-
 
 *Preparation time: 25 Minutes.*
