@@ -12,7 +12,7 @@ It doesn't get any more classic than a Lamb, Potato and Olive Tagine. Every Moro
 
 ![Dish with Lamb, Olives and Potatoes.](../uploads/lamb-tagine.jpeg "Lamb, Potato and Olive Tagine ")
 
-## Ingredients 
+## Ingredients
 
 * 2 tablespoons olive oil 
 * 1 large onion, sliced
@@ -28,9 +28,6 @@ It doesn't get any more classic than a Lamb, Potato and Olive Tagine. Every Moro
 * 1 kg potatoes, peeled in cut into wedges
 * 200 gr green olives drained
 * Chopped coriander for garnish
-
-
-  ![Ingredients on Kitchen Counter:Raw Lamb Neck, Bowl of Olives, Tomatoes, Onion and Potatoes.](../uploads/ingredients.jpeg "Ingredients for Lamb Tagine ")
 
 ## Method
 
