@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is it too much to ask for a responsive website?
+title: "Web design 101: Make sure your website is responsive."
 date: 2021-03-01T16:03:06.696Z
 header_feature_image: ../uploads/0_dorfvsb5prhdbet7_.jpg
 title_color: "#ffffff"
