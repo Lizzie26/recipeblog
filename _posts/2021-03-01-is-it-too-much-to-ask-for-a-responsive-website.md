@@ -26,4 +26,4 @@ The fundamental purpose of a website is for it to work and function and not just
 
 With mobile-friendly websites now being an industry standard, especially thanks to mobile-first indexing, take a minute to digest this blog post and ensure that your web design is suited for all devices. 
 
-Statistics that are sited can be found [here](https://digitalnext.co.uk/dn-hub/blog/importance-of-responsive-web-design/#:~:text=Providing%20an%20optimal%20experience%20for,of%20your%20brand%20and%20business.).
+Statistics that are cited can be found [here](https://digitalnext.co.uk/dn-hub/blog/importance-of-responsive-web-design/#:~:text=Providing%20an%20optimal%20experience%20for,of%20your%20brand%20and%20business.).
